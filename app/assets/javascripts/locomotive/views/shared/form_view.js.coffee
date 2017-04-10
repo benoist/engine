@@ -25,7 +25,7 @@ class Locomotive.Views.Shared.FormView extends Backbone.View
     @enable_file_inputs()
     @enable_array_inputs()
     @enable_toggle_inputs()
-    @enable_datetime_inputs()
+    #@enable_datetime_inputs()
     @enable_text_inputs()
     @enable_rte_inputs()
     @enable_markdown_inputs()
